@@ -1,2 +1,2 @@
 # java_types
-CLi project about coffee types.
+Cli project about coffee types.
